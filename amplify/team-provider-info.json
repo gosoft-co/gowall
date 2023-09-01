@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gowall-dev-122039-authRole",
+      "UnauthRoleArn": "arn:aws:iam::572438093543:role/amplify-gowall-dev-122039-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::572438093543:role/amplify-gowall-dev-122039-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-gowall-dev-122039-deployment",
+      "UnauthRoleName": "amplify-gowall-dev-122039-unauthRole",
+      "StackName": "amplify-gowall-dev-122039",
+      "StackId": "arn:aws:cloudformation:us-east-2:572438093543:stack/amplify-gowall-dev-122039/b74491b0-436b-11ee-af1c-0a77db78ff0d",
+      "AmplifyAppId": "d1c111cdg0h55b"
+    },
+    "categories": {
+      "api": {
+        "gowall": {}
+      }
+    }
+  }
+}
